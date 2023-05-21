@@ -14,8 +14,7 @@ Designers: Claus Eggers Sørensen
 
 ## How To Use This Font Typography In Your fastn Package:
 
-[Read the docs and demo](https://fastn-community.github.io/playfair-display-font
-/).
+[Read the docs and demo](https://fastn-community.github.io/playfair-display-font/).
 
 Also, check [playfair-display-font-typography](https://fastn-community.github.io/playfair-display-font-typography/)
 
